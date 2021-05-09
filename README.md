@@ -1,6 +1,7 @@
 # Weather_Website
 
-It is a Node.js Application which includes
+It is a Node.js Application deployed on Heroku at url https://sharma-weather-website.herokuapp.com/
+It includes
 - Asynchronous Node.js
 - Making and customizing HTTP Requests
 - Callback functions and abstraction
